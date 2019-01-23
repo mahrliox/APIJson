@@ -1,0 +1,116 @@
+{
+  "Productos": [
+    {
+      "id": 1,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 2,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 3,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+   {
+      "id": 4,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 5,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+   {
+      "id": 6,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 7,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 8,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 9,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 10,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 11,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 12,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 13,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    },
+    {
+      "id": 14,
+      "SKU": "ADC-HS-050",
+      "Nombre": "Billeteras para dama",
+      "Precio": "70",
+      "Disponibles": "5",
+      "Categoría": "Accesorios para Dama"
+    }
+  ]
+}
